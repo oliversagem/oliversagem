@@ -1,4 +1,4 @@
-----------------8<-------------[Introduction]------------------
+##----------------8<-------------[Introduction]------------------
 Hi! My name is Oliver McMillan, and I am a Computer Science Major @ Dakota State University
 
 ## Learning
