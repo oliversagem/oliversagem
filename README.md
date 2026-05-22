@@ -1,9 +1,4 @@
-##   .--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
-## :::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
-## '      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
-
 ## Introduction ʚїɞ
-
 Hi! My name is Oliver McMillan, and I am a Computer Science Major @ Dakota State University
 
 ## Learning ʚїɞ
@@ -14,7 +9,3 @@ Not currently working on any projects but I look to be very soon.
 
 ## Contact ʚїɞ
 Feel free to contact me through [email](mailto:oliver.mcmillan@trojans.dsu.edu) or through [LinkedIn](https://www.linkedin.com/in/oliver-mcmillan-556a12410)!
-
-##   .--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
-## :::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
-## '      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
