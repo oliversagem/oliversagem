@@ -2,7 +2,7 @@
 Hi! My name is Oliver McMillan, and I am a Computer Science Major @ Dakota State University
 
 ## 💠 Learning ʚїɞ
-I use [boot.dev](https://boot.dev)'s online courses to learn programming and complete projects.
+I use [TheOdinProject](https://www.theodinproject.com/dashboard)'s online courses to learn programming and complete projects.
 
 ## 💠 Projects ʚїɞ
 Not currently working on any projects but I look to be very soon.
