@@ -1,11 +1,15 @@
-## 💠 Introduction ʚїɞ
+## INTRODUCTION
 Hi! My name is Oliver McMillan, and I am a Computer Science Major @ Dakota State University
 
-## 💠 Learning ʚїɞ
-I use [TheOdinProject](https://www.theodinproject.com/dashboard)'s online courses to learn programming and complete projects.
+## LEARNING
+I use [TheOdinProject](https://www.theodinproject.com/dashboard)'s and [boot.dev](https://www.boot.dev?bannerlord=oliversagem)'s online courses to learn programming and complete projects.
 
-## 💠 Projects ʚїɞ
-Not currently working on any projects but I look to be very soon.
 
-## 💠 Contact ʚїɞ
-Feel free to contact me through [email](mailto:oliver.mcmillan@trojans.dsu.edu) or through [LinkedIn](https://www.linkedin.com/in/oliver-mcmillan-556a12410)!
+## CONTACT
+[Email](mailto:oliver.mcmillan@trojans.dsu.edu) [LinkedIn](https://www.linkedin.com/in/oliver-mcmillan-556a12410)!
+
+## STATS
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/acef624a-9b52-4961-a170-4d0d56923e3d/thumbnail" >
+</p>
