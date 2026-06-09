@@ -11,11 +11,11 @@
 
 ##  
 
+div class="flex-container">
+  <p>Ctest</p>
+</div>
+
 Computer Science Major @ DSU
-
-Learning Python through Boot.dev
-
-<p style="text-align: center;">Learning Python through [boot.dev](https://boot.dev) </p>
 
 [Email](mailto:oliver.mcmillan@trojans.dsu.edu) [LinkedIn](https://www.linkedin.com/in/oliver-mcmillan-556a12410)
 
