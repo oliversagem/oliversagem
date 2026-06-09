@@ -13,6 +13,7 @@
 <div align="center">
 
 Computer Science Major @ DSU
+
 [Email](mailto:oliver.mcmillan@trojans.dsu.edu) [LinkedIn](https://www.linkedin.com/in/oliver-mcmillan-556a12410)
 
     
