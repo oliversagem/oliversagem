@@ -13,10 +13,6 @@
 <div align="center">
 
 Computer Science Major @ DSU
-
-Currently learning Python through [boot.dev](https://boot.dev)'s programming course
-
-
 [Email](mailto:oliver.mcmillan@trojans.dsu.edu) [LinkedIn](https://www.linkedin.com/in/oliver-mcmillan-556a12410)
 
     
