@@ -11,9 +11,15 @@
 
 ##  
 
+Computer Science Major @ DSU
+
+Learning Python through Boot.dev
+
+<p style="text-align: center;">Learning Python through [boot.dev](https://boot.dev) </p>
 
 [Email](mailto:oliver.mcmillan@trojans.dsu.edu) [LinkedIn](https://www.linkedin.com/in/oliver-mcmillan-556a12410)
 
+## 
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/acef624a-9b52-4961-a170-4d0d56923e3d/thumbnail" >
