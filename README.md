@@ -8,14 +8,15 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://r2.e-z.host/23028152-d4de-41c1-9fec-6ea421e59f14/16hf5cq6.png" width="300" >
 </p>
 
-
+<p align="center">
 [Email](mailto:oliver.mcmillan@trojans.dsu.edu) [LinkedIn](https://www.linkedin.com/in/oliver-mcmillan-556a12410)!
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://r2.e-z.host/23028152-d4de-41c1-9fec-6ea421e59f14/es80mjus.png" width="150" >
 </p>
 
