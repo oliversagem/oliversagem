@@ -9,7 +9,6 @@
   </a>
 </p>
 
-##  
 
 <div align="center">
 
@@ -22,6 +21,9 @@ Currently learning Python through [boot.dev](https://boot.dev)'s programming cou
 
     
 </div>
+##  
+
+
 
 ## 
 
