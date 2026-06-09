@@ -18,7 +18,6 @@ Computer Science Major @ DSU
 
     
 </div>
-##  
 
 
 
