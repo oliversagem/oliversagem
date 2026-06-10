@@ -25,6 +25,6 @@ Computer Science Major @ DSU
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/acef624a-9b52-4961-a170-4d0d56923e3d/thumbnail" >
-  <img src="https://github-readme-stats.vercel.app/api?username=oliversagem&show_icons=true&theme=gruvbox" >
+  <img src="https://github-readme-stats.vercel.app/api?username=oliversagem&show_icons=true&theme=shadow_red" >
 </p>
 
